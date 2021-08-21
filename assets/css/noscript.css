@@ -1,0 +1,36 @@
+/*
+	Hyperspace by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+
+    Updated for Betty's Maid Cleaning by https://www.linkedin.com/in/tyler-coudriet-525a3a1b6/
+*/
+
+/* Spotlights */
+
+	.spotlights > section > .image:before {
+		opacity: 0 !important;
+	}
+
+	.spotlights > section > .content > .inner {
+		transform: none !important;
+		opacity: 1 !important;
+	}
+
+/* Wrapper */
+
+	.wrapper > .inner {
+		opacity: 1 !important;
+		transform: none !important;
+	}
+
+/* Sidebar */
+
+	#sidebar > .inner {
+		opacity: 1 !important;
+	}
+
+	#sidebar nav > ul > li {
+		transform: none !important;
+		opacity: 1 !important;
+	}
