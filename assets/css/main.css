@@ -2927,6 +2927,10 @@ input, select, textarea {
 				opacity: 1;
 			}
 
+            .spotlights > section > .content > .inner > p {
+                color: white;
+            }
+
 		.spotlights > section:nth-child(2) {
 			background-color: rgba(0, 0, 0, 0.05);
 		}
